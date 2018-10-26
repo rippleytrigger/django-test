@@ -25,7 +25,7 @@ SECRET_KEY = '!g#l2clc4v&de)l^w6!87xsjr6*oju5c0r2ddn+o48i%y1tzbr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com', 'rippleytrigger.pythonanywhere.com']
 
 
 # Application definition
